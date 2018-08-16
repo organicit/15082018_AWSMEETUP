@@ -11,5 +11,5 @@ https://github.com/python/pycon-code-of-conduct
 ### Community news and job postings
 
 ### AWS News
- * [EFS](https://aws.amazon.com/blogs/aws/new-provisioned-throughput-for-amazon-elastic-file-system-efs/ "EFS")
+ * [Jeff Barr Blog](https://aws.amazon.com/blogs/aws/author/barr/")
 
